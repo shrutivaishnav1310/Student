@@ -7,7 +7,7 @@
         <element choice="1" label="Course Type" max_length="40" name="course_type" reference="x_1276109_servicen_coursenew" type="reference">
             <choice/>
         </element>
-        <element label="Email Id" max_length="40" name="email_id" type="string"/>
+        <element label="Email ID" max_length="40" name="email_id" type="email"/>
         <element label="First Name" max_length="40" name="first_name" type="string"/>
         <element label="Last Name" max_length="40" name="last_name" type="string"/>
         <element label="Pin code" max_length="40" name="pin_code" type="integer"/>

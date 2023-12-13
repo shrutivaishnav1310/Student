@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="email_id" label="Email Id" language="en" table="x_1276109_servicen_new_studentdetail">
+    <sys_documentation element="email_id" label="Email ID" language="en" table="x_1276109_servicen_new_studentdetail">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>email_id</element>
             <help/>
             <hint/>
-            <label>Email Id</label>
+            <label>Email ID</label>
             <language>en</language>
             <name>x_1276109_servicen_new_studentdetail</name>
-            <plural>Email Ids</plural>
+            <plural>Email IDs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-12-12 10:40:33</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Email Id</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Email ID</sys_name>
             <sys_package display_value="Servicenw Training Str" source="x_1276109_servicen">826142b547c7b110ea683b12d16d4356</sys_package>
             <sys_policy/>
             <sys_scope display_value="Servicenw Training Str">826142b547c7b110ea683b12d16d4356</sys_scope>
             <sys_update_name>sys_documentation_x_1276109_servicen_new_studentdetail_email_id_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-12 10:40:33</sys_updated_on>
+            <sys_updated_on>2023-12-13 06:14:29</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
